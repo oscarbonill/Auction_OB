@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
